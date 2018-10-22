@@ -1,72 +1,20 @@
-﻿name,gender,status,date_of_birth,birth_country
-Roy Scheider,male,deceased,11/10/1932,USA
-Robert Shaw,male,deceased,8/9/1927,England
-Richard Dreyfuss,male,alive,10/29/1947,USA
-Marlon Brando,male,deceased,4/3/1924,USA
-Al Pacino,male,alive,4/25/1940,USA
-James Caan,male,alive,3/26/1940,USA
-Uma Thurman,female,alive,4/29/1970,USA
-Lucy Liu,female,alive,12/2/1968,USA
-Viva Fox,female,alive,7/30/1964,USA
-Daryl Hanna,female,alive,12/3/1960,USA
-David Carradine,male,deceased,12/8/1936,USA
-Michael Madsen,male,alive,9/25/1957,USA
-Samuel L. Jackson,male,alive,12/21/1948,USA
-Kurt Russell,male,alive,3/17/1951,USA
-Jennifer Leigh,female,alive,2/5/1962,USA
-John Travolta,male,alive,2/18/1954,USA
-Natalie Portman,female,alive,6/9/1981,USA
-Hugo Weaving,male,alive,4/4/1960,USA
-Mark Hamill,male,alive,9/25/1951,USA
-Harrison Ford,male,alive,7/13/1942,USA
-Carrie Fisher,female,deceased,10/21/1956,USA
-James Earl Jones,male,alive,1/17/1931,USA
-Yoo Gong,male,alive,7/10/1979,South Korea
-Kim Su-an,female,alive,1/27/2006,South Korea
-Michael Cera,male,alive,6/7/1988,Canada
-Ellen Wong,female,alive,6/7/1905,Canada
-Mary Winstead,female,alive,11/28/1984,USA
-Ming-Na Wen,female,alive,11/20/1963,Protuguese Macau
-B.D. Wong,male,alive,10/24/1960,USA
-Eddie Murphy ,male,alive,4/3/1961,USA
-Winona Ryder,female,alive,10/29/1971,USA
-Christian Slater,male,alive,8/18/1969,USA
-Robert Downey Jr.,male,alive,4/4/1965,USA
-Chris Evans,male,alive,6/13/1981,USA
-Mark Ruffalo,male,alive,11/22/1967,USA
-Chris Hemsworth,male,alive,8/11/1983,USA
-Scarlet Johnasson,female,alive,11/22/1984,USA
-Jeremy Renner,male,alive,1/7/1971,USA
-Tom Hiddleston,male,alive,2/9/1981,England
-Yunosuke Kamiki,male,alive,5/19/1993,Japan
-Mone Kamishiraishi,female,alive,1/27/1998,Japan
-Stefani Germanotta,female,alive,3/28/1986,USA
-Bradley Cooper,male,alive,1/5/1951,USA
-Nino Rota,male,deceased,12/3/1911,Italy
-Cherilyn Sarkisian,female,alive,5/20/1946,USA
-Nancy Sinatra,female,alive,6/8/1940,USA
-Eunice Waymon,female,deceased,2/21/1933,USA
-Jack White,male,alive,7/8/1975,USA
-Meg White,female,alive,12/10/1974,USA
-Richard Monsour,male,alive,5/4/1937,USA
-Pyotr Ilyich Tchaikovsky,male,deceased,5/7/1940,Russia
-Robert Bell,male,alive,10/8/1950,USA
-Ronald Bell,male,Alive,11/1/1951,USA
-John Williams,male,alive,2/8/1832,USA
-Young-gyu Jang,male,alive,5/21/1905,South Korea
-Emily Haines,female,alive,1/25/1974,Canada
-Brianne Desaulniers,female,alive,10/1/1989,USA
-Maria Salonga,female,alive,5/24/1905,Philipines
-Donald Osmond,male,alive,12/9/1957,USA
-Yojiro Noda,male,alive,7/5/1985,Japan
-Steven Speilberg,male,alive,12/18/1946,USA
-Francis Ford Coppola,male,alive,4/7/1939,USA
-Quentin Tarantino,male,alive,3/27/1963,USA
-James McTeigue,male,alive,12/29/1967,Australia
-George Lucas,male,alive,5/14/1944,USA
-Sang-ho Yeon,male,alive,5/31/1905,South Korea
-Edgar Wright,male,alive,4/18/1974,England
-Tony Bancroft,male,alive,7/31/1967,USA
-Michael Lehmann,male,alive,3/30/1957,USA
-Joss Whedon,male,alive,6/23/1964,USA
-Makoto Shinkai,male,alive,2/9/1973,Japan
+﻿name,date_of_birth,artist_name,since
+Nino Rota,12/3/1911,Nino Rota,
+Cherilyn Sarkisian,5/20/1946,Cher,1963
+Nancy Sinatra,6/8/1940,Nancy Sinatra,
+Eunice Waymon,2/21/1933,Nina Simone,1954
+Jack White,7/8/1975,The White Stripes,1997
+Meg White,12/10/1974,The White Stripes,1997
+Richard Monsour,5/4/1937,Dick Dale,1959
+Pyotr Ilyich Tchaikovsky,5/7/1840,Pyotr Ilyich Tchaikovsky,
+Robert Bell,10/8/1950,Kool & The Gang,1964
+Ronald Bell,11/1/1951,Kool & The Gang,1964
+John Williams,2/8/1832,John Williams,
+Young-gyu Jang,5/21/1905,Young-gyu Jang,
+Emily Haines,1/25/1974,Metric,1998
+Brianne Desaulniers,10/1/1989,Brie Larson,1998
+Maria Salonga,5/24/1905,Lea Salonga,
+Donald Osmond,12/9/1957,Donny Osmond,1963
+Yojiro Noda,7/5/1985,Radwimp,2001
+Stefani Germanotta,3/28/1986,Lady Gaga,2001
+Bradley Cooper,1/5/1951,Bradley Cooper,
